@@ -1,1 +1,2 @@
-My first readme
+This is tech
+Up to date now
